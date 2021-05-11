@@ -18,7 +18,7 @@ What we need to do is simply:
  - download [EpicGames](https://www.epicgames.com) and install `UnrealEngine-4.25` from its marketplace
  - download custom scene (Singapore Condominium) from [here](https://pan.baidu.com/s/1u3o-BIedcmqRknMpOdcnxw) with extraction code `33n8`
    ![singapore_c](img/singapore_c_unreal.png)
- - setup and build the custom environment to support airsim
+ - setup and build the custom environment to support `AirSim`
 
 when you see your custom scene has the following gui interface it means you have successfully built it:
 
