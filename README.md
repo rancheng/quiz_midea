@@ -4,7 +4,7 @@
 
 ---
 
-Task description:
+#### Task description:
 
 It's impossible to exhaust search the real-world environment and generate enough dataset to train a robot to perceive the world, there comes to simulators.
 
@@ -20,6 +20,8 @@ What we need to do is simply:
    ![singapore_c](img/singapore_c_unreal.png)
  - setup and build the custom environment to support `AirSim`
 
+#### Expected Result:
+
 when you see your custom scene has the following gui interface it means you have successfully built it:
 
 !!note!!: you might need to press `1` `2` `3` key to activate these interface, please read the documentation of AirSim carefully, since they might change the key bindings.
@@ -30,6 +32,8 @@ when you see your custom scene has the following gui interface it means you have
  - add random day-time sunlight effect
  - add a moving robot model to the custom scene
  - setup the ros2 bridge and record a rosbag
+ 
+
  
 ---
 
